@@ -1,0 +1,10 @@
+# ไฟล์ที่เกิดจากการ Build
+bin/
+obj/
+
+# ข้อมูลการตั้งค่าเฉพาะเครื่อง (มักจะมีรหัสผ่าน DB)
+appsettings.Development.json
+appsettings.Local.json
+
+# ไฟล์รูปภาพสลิปที่เก็บในเครื่อง
+wwwroot/uploads/slips/*
